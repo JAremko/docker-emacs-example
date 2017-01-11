@@ -1,6 +1,6 @@
 ### Example of build from jare/emacs Docker image
 
-![emacs with spacemacs-theme](img/emacs.png)
+![emacs with spacemacs-theme](https://github.com/JAremko/docker-emacs-example/raw/master/img/emacs.png)
 
 #### It adds:
  - firefox
